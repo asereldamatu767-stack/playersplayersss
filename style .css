@@ -1,0 +1,85 @@
+body{
+    background-color:darkkhaki;
+}
+h2 {
+    color: blue;
+    background-color: black;
+    text-align: center;
+    font-size: 30px;
+}
+h1{
+    color: red;
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 40px;
+}
+li{
+    color:yellow;
+
+text-align: center;
+font-size: 40px;
+}
+p{
+    color: darkgreen;
+    background-color: white;
+    text-align: center;
+    font-size: 30px;
+    }
+    .salah{
+        background-color:goldenrod ;
+    }    
+    .omar{
+        background-color: red;
+        margin-bottom: 15px;
+    }
+    .zico{
+background-color: gray;
+    }
+    .Mostafa{
+        background-color: green;
+    }
+   .emam{
+    background-color:gold ;
+   } 
+  .haissem{
+background-color: silver;
+  } 
+  .mohammed{
+background-color: brown;
+  }
+  .yasser{
+background-color:yellow ;
+  }
+  .hossam{
+    background-color: pink;
+  }
+  .Mohanad{
+background-color: purple;
+  }
+  .yamal{
+background-color: aqua;
+  }
+  .pedri{
+    background-color: greenyellow;
+  }
+  .Cucurella{
+    background-color: antiquewhite;
+  }
+.simon{
+  background-color: skyblue;
+}
+.Olmo{
+   background-color: slateblue;
+}
+.Cubarsí{
+  background-color: blanchedalmond;
+}
+.GavI{
+  background-color: seagreen;
+}
+.Rodri{
+  background-color: thistle;
+}
+.ferran{
+  background-color: coral;
+}
